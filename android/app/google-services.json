@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68264867057",
+    "project_id": "ciddili-92504",
+    "storage_bucket": "ciddili-92504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68264867057:android:e4d80b175c192df0ab2550",
+        "android_client_info": {
+          "package_name": "com.example.firebaseciddilideneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68264867057-pdlt2chdf0b0du5odrs3vvln8gf7npue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeoXk59StsWHRz9jhiO0e8otuMhlWvaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68264867057-pdlt2chdf0b0du5odrs3vvln8gf7npue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
